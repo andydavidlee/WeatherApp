@@ -1,0 +1,27 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Full stack application exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydavidlee/WeatherApp.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "Andrew Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydavidlee/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/andydavidlee/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
